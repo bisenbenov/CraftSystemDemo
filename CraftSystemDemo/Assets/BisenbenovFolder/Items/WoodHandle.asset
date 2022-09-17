@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 295449a67ca97d542b6a08f4c4dcd9a4, type: 3}
+  m_Name: WoodHandle
+  m_EditorClassIdentifier: 
+  name: AxeWoodHandle
+  icon: {fileID: 21300000, guid: 3510894fce7de8c4fa3569782e0ede20, type: 3}
+  isDefaultItem: 0
